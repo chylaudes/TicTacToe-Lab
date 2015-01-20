@@ -1,0 +1,23 @@
+.col-md-4 {
+	height: 200px;
+	width: 200px;
+	text-align: center;
+}
+
+
+
+.gameboard {
+	width: 700px;
+}
+
+.cbtn {
+	height: 100%;
+	width: 100%;
+}
+
+.celems {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
